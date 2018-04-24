@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/src/main/assets"/><source path="/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/src/release/assets"/></dataSet></merger>

@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      "seer-custom-keyboard@1.0.8",
+      "/Users/nguyentuan/Documents/PROJECT/noah-wallet"
+    ]
+  ],
+  "_from": "seer-custom-keyboard@1.0.8",
+  "_id": "seer-custom-keyboard@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-i942DdmUmH+rzbXg2zOnEa8aKYJoiFbh0EE+NFHCCPNLWVsj2id5+Xum1qwNYgtEcTCHxlETeQIUjEHpeIIcOg==",
+  "_location": "/seer-custom-keyboard",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "seer-custom-keyboard@1.0.8",
+    "name": "seer-custom-keyboard",
+    "escapedName": "seer-custom-keyboard",
+    "rawSpec": "1.0.8",
+    "saveSpec": null,
+    "fetchSpec": "1.0.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/seer-custom-keyboard/-/seer-custom-keyboard-1.0.8.tgz",
+  "_spec": "1.0.8",
+  "_where": "/Users/nguyentuan/Documents/PROJECT/noah-wallet",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/RnTouna/RN-custom-keyboard/issues"
+  },
+  "dependencies": {
+    "events": "^1.1.1",
+    "prop-types": "^15.5.10"
+  },
+  "description": "# seer-custom-keyboard",
+  "homepage": "https://github.com/RnTouna/RN-custom-keyboard#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "seer-custom-keyboard",
+  "peerDependencies": {
+    "react-native": "^0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RnTouna/RN-custom-keyboard.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8",
+  "react-native": {
+    "crypto": "react-native-crypto",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  },
+  "browser": {
+    "crypto": "react-native-crypto",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  }
+}

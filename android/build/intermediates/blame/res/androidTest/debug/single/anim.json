@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/slide_up.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/dc5fd3907ea029b5e3849c2b55d8fbaef5f69fc8/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/dc5fd3907ea029b5e3849c2b55d8fbaef5f69fc8/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/slide_down.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/dc5fd3907ea029b5e3849c2b55d8fbaef5f69fc8/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/dc5fd3907ea029b5e3849c2b55d8fbaef5f69fc8/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/fade_out.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/dc5fd3907ea029b5e3849c2b55d8fbaef5f69fc8/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/fade_in.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/dc5fd3907ea029b5e3849c2b55d8fbaef5f69fc8/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/Documents/PROJECT/noah-wallet/node_modules/seer-custom-keyboard/android/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nguyentuan/.android/build-cache/64db4332733084ee4a435d8d0702abb7bfe03b01/output/res/anim/abc_popup_exit.xml"
+    }
+]
